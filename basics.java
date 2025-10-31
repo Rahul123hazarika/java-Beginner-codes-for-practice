@@ -1,7 +1,7 @@
 //input handling- 
 // system.in.read()
 // Explanation:
-//  System.in.read() reads a single character as an integer (ASCII code). •
+//  System.in.read() reads a single character as an integer (ASCII code).
 //  You convert it to a character using (char)typecasting. •
 //  The program stops until you press a key + Enter.
 import java.io.*;
